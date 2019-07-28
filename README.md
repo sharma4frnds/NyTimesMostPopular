@@ -23,14 +23,17 @@
 
 ## Screens
 
-<b>Main article list Screen</b>
+<b>News Screen</b>
 <img src="https://github.com/sharma4frnds/NyTimesMostPopular/blob/master/app/images/main_activity.png" alt="Main article list"/>
 
-<b>Details View Screen</b>
+
+<b>News Detail View Screen</b>
 <img src="https://github.com/sharma4frnds/NyTimesMostPopular/blob/master/app/images/detail_activity.png" alt="Details View Screen"/>
 
-<b>High level diagram</b>
+
+<b>High Level diagram</b>
 <img src="https://github.com/sharma4frnds/NyTimesMostPopular/blob/master/app/images/hld.png" alt="High level diagram"/>
 
-<b>Quality Analysis using Sonar</b>
+
+<b>Quality Analysis Using Sonar</b>
 <img src="https://github.com/sharma4frnds/NyTimesMostPopular/blob/master/app/images/Sonar_Analysis.png" alt="Quality Analysis using Sonar"/>
