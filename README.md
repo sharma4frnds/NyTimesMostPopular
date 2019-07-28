@@ -1,4 +1,4 @@
-# Assessment (NY Times Most Popular Articles)
+## Assessment (NY Times Most Popular Articles)
 
 # Steps to setup/Run application
 * Download Android studio and configure it.
@@ -8,13 +8,28 @@
 * use below command to install apk into phone/tablet. 
 * adb install -r "Path of apk" make sure adb is configured. 
 
+* If you failed to build, I am attaching debug apk inside apk folder, please download and use that. 
+
+## Designing
+* Model–view–viewmodel (MVVM) architectural pattern
+* Retrofit server call 
+* UI & functions tested using JUnit & espress
+* Glide to load the images provided in urls.  
+
+# Test cases Report
+* HLD, SonarLint report are attached under images folder. Please check the same. 
 
 
+## Screens
 
-* Good UI approach e.g. MVC, MVVM, MVP, etc. Please specify the pattern used
-* Unit tests using Junit, XCTest, to achieve good code coverage
-* Some UI tests using espresso, XCUITest, etc.
-* Code to be generic and simple
-* Leverage today's best coding practices e.g. Swift, Android coding standards
-* Clear README.md that explains how the code and the test can be run and how the
-* SonarQube report for the code showing its quality summary
+<b>Main article list Screen</b>
+<img src="images/main_activity.png" alt="Main article list"/>
+
+<b>Details View Screen</b>
+<img src="images/detail_activity.png" alt="Details View Screen"/>
+
+<b>Main article list Screen</b>
+<img src="images/hld.png" alt="High level diagram"/>
+
+<b>Main article list Screen</b>
+<img src="images/Sonar_Analysis.png" alt="Quality Analysis using Sonar"/>
