@@ -20,16 +20,17 @@
 * HLD, SonarLint report are attached under images folder. Please check the same. 
 
 
+
 ## Screens
 
 <b>Main article list Screen</b>
-<img src="images/main_activity.png" alt="Main article list"/>
+<img src="https://github.com/sharma4frnds/NyTimesMostPopular/blob/master/app/images/main_activity.png" alt="Main article list"/>
 
 <b>Details View Screen</b>
-<img src="images/detail_activity.png" alt="Details View Screen"/>
+<img src="https://github.com/sharma4frnds/NyTimesMostPopular/blob/master/app/images/detail_activity.png" alt="Details View Screen"/>
 
-<b>Main article list Screen</b>
-<img src="images/hld.png" alt="High level diagram"/>
+<b>High level diagram</b>
+<img src="https://github.com/sharma4frnds/NyTimesMostPopular/blob/master/app/images/hld.png" alt="High level diagram"/>
 
-<b>Main article list Screen</b>
-<img src="images/Sonar_Analysis.png" alt="Quality Analysis using Sonar"/>
+<b>Quality Analysis using Sonar</b>
+<img src="https://github.com/sharma4frnds/NyTimesMostPopular/blob/master/app/images/Sonar_Analysis.png" alt="Quality Analysis using Sonar"/>
